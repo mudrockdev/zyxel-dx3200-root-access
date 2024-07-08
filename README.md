@@ -1,7 +1,7 @@
 # Zyzel dx3200 root access
 
-This project is solely made for easily getting root access on some models of Zyxel modem and routers for home users.
-Do not use this project to get root access on a device owned by ISP or by another person.
+This project is solely made for easily getting root password on some models of Zyxel modem and routers for home users.
+Do not use this project to get root password on a device owned by ISP or by another person.
 
 ## Needed to get root access
 
